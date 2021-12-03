@@ -25,6 +25,7 @@ public class SolutionManager : MonoBehaviour
     {
         totalProgress = (object1.solutionProgress + object2.solutionProgress) / 2;
         scaleImage.transform.localScale = new Vector3(1, totalProgress, 1);
+        
         // we compare our value to a game difficulty or a target value that means you have the correct shape
         if (totalProgress >= difficulty)
         {

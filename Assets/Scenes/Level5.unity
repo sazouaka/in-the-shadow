@@ -2285,7 +2285,7 @@ MonoBehaviour:
   object2: {fileID: 1949076523}
   totalProgress: 0
   scaleImage: {fileID: 1808072348}
-  difficulty: 0.995
+  difficulty: 0.985
   levelUnlocked: {fileID: 1915811346}
   passedPanel: {fileID: 1955423841}
   pauseCanva: {fileID: 979462983}

@@ -2694,12 +2694,12 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 090f25a7cea5141d9928c75afcbd3920,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.268
+      value: 0.55
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 090f25a7cea5141d9928c75afcbd3920,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.877
+      value: 2.97
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 090f25a7cea5141d9928c75afcbd3920,
         type: 3}
@@ -2842,8 +2842,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   solutionProgress: 0
-  objectsolutionPos: {x: 0.5832446, y: 3.023451, z: -4.8}
-  objectsolutionRot: {x: -0.6758249, y: 0.05889465, z: 0.015770167, w: 0.73453623}
+  objectsolutionPos: {x: 0.55, y: 2.97, z: -4.8}
+  objectsolutionRot: {x: -0.69951075, y: 0.040893108, z: 0.010641009, w: 0.7133719}
   cmpval: 0
   rotValue: 0
   passedPanel: {fileID: 1168942678}
@@ -3667,12 +3667,12 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 3f2126b6eb92e4eefbb127865f8d0326,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.2670252
+      value: 0.54902524
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3f2126b6eb92e4eefbb127865f8d0326,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.8811939
+      value: 2.9741938
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3f2126b6eb92e4eefbb127865f8d0326,
         type: 3}
@@ -3825,8 +3825,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   solutionProgress: 0
-  objectsolutionPos: {x: 0.5613996, y: 3, z: -4.8}
-  objectsolutionRot: {x: -0.41785952, y: -0.47466508, z: 0.49175882, w: 0.59854805}
+  objectsolutionPos: {x: 0.5175784, y: 2.940036, z: -4.8}
+  objectsolutionRot: {x: -0.49956757, y: -0.52336746, z: 0.44088688, w: 0.5311662}
   cmpval: 0
   rotValue: 0
   passedPanel: {fileID: 1168942678}
@@ -5412,7 +5412,7 @@ MonoBehaviour:
   object2: {fileID: 1094729311}
   totalProgress: 0
   scaleImage: {fileID: 1307110678}
-  difficulty: 0.975
+  difficulty: 0.97
   levelUnlocked: {fileID: 1561678145}
   passedPanel: {fileID: 1168942678}
   pauseCanva: {fileID: 808276971}
