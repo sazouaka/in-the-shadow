@@ -3216,6 +3216,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 0.01
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 0d4e51a6478f3435aa09a47e31abfe57,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6cfe423139c361a459da7ed9831d4b1c, type: 2}
     - target: {fileID: 919132149155446097, guid: 0d4e51a6478f3435aa09a47e31abfe57,
         type: 3}
       propertyPath: m_Name
@@ -4156,6 +4161,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.01
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 852a21b7fe4fd4f0f85d6efbb930520e,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6cfe423139c361a459da7ed9831d4b1c, type: 2}
     - target: {fileID: 919132149155446097, guid: 852a21b7fe4fd4f0f85d6efbb930520e,
         type: 3}
       propertyPath: m_Name
@@ -4625,6 +4635,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 0.01
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2e25c590ff7094ec18c6bbf535e877b9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6cfe423139c361a459da7ed9831d4b1c, type: 2}
     - target: {fileID: 919132149155446097, guid: 2e25c590ff7094ec18c6bbf535e877b9,
         type: 3}
       propertyPath: m_Name
@@ -5026,6 +5041,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 0.01
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 0d4e51a6478f3435aa09a47e31abfe57,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6cfe423139c361a459da7ed9831d4b1c, type: 2}
     - target: {fileID: 919132149155446097, guid: 0d4e51a6478f3435aa09a47e31abfe57,
         type: 3}
       propertyPath: m_Name
@@ -5357,6 +5377,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Chalk Board Export
       objectReference: {fileID: 0}
+    - target: {fileID: 3566390031902043909, guid: bd4d8b46f339a42e6afb7ccfea32ffc5,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6cfe423139c361a459da7ed9831d4b1c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bd4d8b46f339a42e6afb7ccfea32ffc5, type: 3}
 --- !u!1 &1995927960

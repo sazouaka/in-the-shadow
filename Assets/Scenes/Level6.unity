@@ -2761,6 +2761,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.07
       objectReference: {fileID: 0}
+    - target: {fileID: -2523025749401967837, guid: 090f25a7cea5141d9928c75afcbd3920,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6cfe423139c361a459da7ed9831d4b1c, type: 2}
     - target: {fileID: 919132149155446097, guid: 090f25a7cea5141d9928c75afcbd3920,
         type: 3}
       propertyPath: m_Name
@@ -3734,6 +3739,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: globe-earth
       objectReference: {fileID: 0}
+    - target: {fileID: 1066984750277917813, guid: 3f2126b6eb92e4eefbb127865f8d0326,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6cfe423139c361a459da7ed9831d4b1c, type: 2}
     - target: {fileID: 6669947888891949986, guid: 3f2126b6eb92e4eefbb127865f8d0326,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -5362,6 +5372,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Chalk Board Export
       objectReference: {fileID: 0}
+    - target: {fileID: 3566390031902043909, guid: bd4d8b46f339a42e6afb7ccfea32ffc5,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6cfe423139c361a459da7ed9831d4b1c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bd4d8b46f339a42e6afb7ccfea32ffc5, type: 3}
 --- !u!1 &2122308279

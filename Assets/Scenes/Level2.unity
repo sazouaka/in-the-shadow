@@ -795,6 +795,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Chalk Board Export
       objectReference: {fileID: 0}
+    - target: {fileID: 3566390031902043909, guid: bd4d8b46f339a42e6afb7ccfea32ffc5,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6cfe423139c361a459da7ed9831d4b1c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bd4d8b46f339a42e6afb7ccfea32ffc5, type: 3}
 --- !u!1 &284087486
@@ -5388,7 +5393,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -8025791396884606354, guid: c019b710e3d484e3b9e0aa2adcbec88a, type: 3}
+  - {fileID: 2100000, guid: 6cfe423139c361a459da7ed9831d4b1c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

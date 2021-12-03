@@ -2035,6 +2035,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7984758136228937788, guid: 8b4889aa53f9749ee8d2206178846d19,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6cfe423139c361a459da7ed9831d4b1c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8b4889aa53f9749ee8d2206178846d19, type: 3}
 --- !u!1 &996154352
@@ -3102,6 +3107,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Chalk Board Export
       objectReference: {fileID: 0}
+    - target: {fileID: 3566390031902043909, guid: bd4d8b46f339a42e6afb7ccfea32ffc5,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6cfe423139c361a459da7ed9831d4b1c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bd4d8b46f339a42e6afb7ccfea32ffc5, type: 3}
 --- !u!1 &1590834520
